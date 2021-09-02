@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    margin: 30px;
+}
+.container{
+    background: url(clock.svg) no-repeat;
+    background-size: 100%;
+    filter: invert(1);
+    position: relative;
+    margin: auto;
+    height: 45vw;
+    width: 45vw; 
+}
+#hour, #min, #sec{
+    position: absolute;
+    background: black;
+    border-radius: 15px; 
+    transform-origin: bottom;
+}
+#sec{
+    width: 1%;
+    height: 40%;
+    top: 10%;
+    left: 49.25%;
+    opacity: 0.8;    
+}
+#min{
+    width: 1.5%;
+    height: 30%;
+    top: 20%;
+    left: 48.9%;
+    opacity: 0.9;  
+}
+#hour{
+    width: 2%;
+    height: 25%;
+    top: 25%;
+    left: 48.85%;
+}
