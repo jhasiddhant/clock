@@ -1,3 +1,3 @@
 Made an Analog Clock using HTML, CSS and Javascript
 
-![image](https://user-images.githubusercontent.com/72513126/131873182-e983b7b1-f212-43ca-a3ba-c0987b687e01.png)
+![image](https://user-images.githubusercontent.com/72513126/131873338-d59231e6-9c81-44b5-894f-52f8668a453a.png)
